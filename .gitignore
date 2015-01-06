@@ -39,5 +39,6 @@ Dictionary_*
 # created executable files
 OrbitSimulation/src/GLAST_slew_estimate
 
-
+# kate project auxiliary dir
+/.kateproject.d/*
 
